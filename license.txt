@@ -6,7 +6,7 @@ This content is released under the (http://opensource.org/licenses/MIT) MIT Lice
 http://www.dumbgamedev.com
 
 This licensing and readme file must be distrubuted with this package and contents. 
-This package and contents can be downloaded for free from: https://github.com/dumbgamedev/TextMeshPro_Playmaker
+This package and contents can be downloaded for free from: https://github.com/dumbgamedev/hitmanager_playmaker
 
 -- MIT --
               
