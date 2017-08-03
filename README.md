@@ -33,7 +33,7 @@ This project can be downloaded in full for free from : https://github.com/dumbga
 
 ## Tutorial
 
-A basic tutorial of how to use these actions can be found here: pending
+A basic tutorial of how to use these actions can be found here: https://www.youtube.com/watch?v=FZ_5jVoOrow&list=PLyrOueLN79DIsLbJs1Rd-5yKgj1_qPiek
 
 ## Bugs & Updates
 
